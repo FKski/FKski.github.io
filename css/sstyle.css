@@ -1,0 +1,11 @@
+  .container {
+    margin: auto;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 3rem;
+  }
+  .person {
+    font-size: 2rem;
+  }
