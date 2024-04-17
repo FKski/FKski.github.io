@@ -3,5 +3,5 @@ var mapOptions = {
     zoom: 10
  }
  var map = new L.map('map', mapOptions);
- var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+ var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/17/50.06914/19.95470.png');
  map.addLayer(layer);
