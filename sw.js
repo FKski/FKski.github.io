@@ -1,10 +1,10 @@
-var cacheName = 'hello-pwa';
+var cacheName = 'PWA';
 var filesToCache = [
-  
+  '/',
   '/index.html',
   '/map.html',
   '/vibrate.js',
-  //'/css/style.css',
+  '/css/style.css',
   '/main.js',
   
 ];
