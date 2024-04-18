@@ -1,42 +1,17 @@
 {
+    "name": "Progressive Web App",
     "short_name": "App",
-    "name": "Application",
-    "icons": [
-      {
-        "src": "images/16x16.png",
-        "type": "image/png",
-        "sizes": "16x16"
-      },
-      {
-        "src": "images/32x32.png",
-        "type": "image/png",
-        "sizes": "32x32"
-      },
-      {
-        "src": "images/64x64.png",
-        "type": "image/png",
-        "sizes": "64x64"
-      },
-      {
-        "src": "images/128x128.png",
-        "type": "image/png",
-        "sizes": "128x128"
-      },
-      {
-        "src": "images/256x256.png",
-        "type": "image/png",
-        "sizes": "256x256"
-      },
-      {
-        "src": "images/512x512.png",
-        "type": "image/png",
-        "sizes": "512x512"
-      }
-    ],
-    "lang": "en-US",
+    "description": "Opis aplikacji",
     "start_url": "/index.html",
     "display": "standalone",
-    "theme_color": "white",
-    "background_color": "white",
-    "scope":"/"
-  }
+    "background_color": "black",
+    "theme_color": "#000000",
+    "id" :"/index.html",
+    "icons": [
+        {
+          "src": "images/map.png",
+          "type": "image/png",
+          "sizes": "256x256"
+        }
+      ]
+}
