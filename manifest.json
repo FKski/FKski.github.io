@@ -33,7 +33,8 @@
         "sizes": "512x512"
       }
     ],
-    "start_url": ".",
+    "lang": "en-US",
+    "start_url": "/index.html",
     "display": "standalone",
     "theme_color": "white",
     "background_color": "white"
