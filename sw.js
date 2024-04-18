@@ -3,7 +3,7 @@ var filesToCache = [
   
   '/index.html',
   '/map.html',
-  '/sos.html',
+  '/vibrate.js',
   //'/css/style.css',
   '/main.js',
   
